@@ -1,5 +1,8 @@
 # 💫 About Me:
-im ui ux designer <br><br>
+<h1>
+  Hello, I am Alina, a software engineer 
+I just started the front end way, I want to gain a lot of experience 
+</h1> <br><br>
 
 
 ## 🌐 Socials:
