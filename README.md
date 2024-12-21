@@ -9,7 +9,7 @@ I just started the front end way, I want to gain a lot of experience
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alina-asrzad-8112b5234/) 
  
 
-# 💻 Tech Stack:
+# 📕💻 Tech Stack:
 
   <div align="left">      
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react" />
