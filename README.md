@@ -1,4 +1,4 @@
-# 💫 About Me:
+# :heart:💫 About Me:
 <h1>
   Hello, I am Alina, a software engineer 
 I just started the front end way, I want to gain a lot of experience 
@@ -7,7 +7,7 @@ I just started the front end way, I want to gain a lot of experience
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alina-asrzad-8112b5234/) 
-[![Discord]) 
+ 
 
 # 💻 Tech Stack:
 
