@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+Github+Profile!;Certificated+Senior+Full+Stack+Engineer;Senior+Full+Stack+Developer;Especially+Backend+Development" alt="gerald525" /></a>
+</p>
+
+
+
 # 🦊💫 About Me:
 <h1>
   Hello, I am Alina, a software engineer 
